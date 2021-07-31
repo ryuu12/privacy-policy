@@ -9,3 +9,4 @@ Here are the list of Privacy Policy that have been added to the repo.
 ### TikTok
 - [US](https://github.com/ryuu12/privacy-policy/blob/main/TikTok(US).md)
 - [Non US, UK, EEA, Switzerland](https://github.com/ryuu12/privacy-policy/blob/main/TikTok%20(Non%20US%2C%20EEA%2C%20UK%2C%20Switzerland).md)
+- [UK, EEA, Switzerland](https://github.com/ryuu12/privacy-policy/blob/main/TikTok(EEA%2C%20UK%2C%20Switzerland).md)
